@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Telefe_logo_2023.png",Telefe (HD) [GEO]
+https://telefe.com/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/El_Trece_logo_2016.png",El Trece (HD) [GEO]
+https://eltrece.com/directo.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Am%C3%A9rica_TV_logo_2020.png",América TV (HD) [GEO]
+https://americatv.com.ar/envivo/stream.m3u8
+
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Canal_9_Argentina_logo_2020.png",Canal 9 (SD)
+https://d1xm195wioio4q.cloudfront.net/c9/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/TV_Publica_logo_2023.png",TV Pública (HD)
+https://r7---sn-q4fl6n6d.googlevideo.com/videoplayback/id/AR_TVPUBLICA/live.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Net_TV_logo.png",Net TV (HD)
+https://5fb24b460df87.streamlock.net/live-cont.ar/nettv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canal_26_logo.png",Canal 26 (HD)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/TN_logo_2016.png",TN [GEO]
+https://tn.com.ar/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/C5N_logo_2015.png",C5N (HD)
+https://live.c5n.com/envivo/c5n.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/A24_logo.png",A24 (HD)
+https://live-01-03-tn.a24.com/live/a24.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Cr%C3%B3nica_TV_logo_2023.png",Crónica (HD)
+https://cdn.awsivx.com/live/Crni001/variant.m3u8
+
+#EXTINF:-1 tvg-id="LNPlus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/La_Naci%C3%B3n_Plus_logo.png",LN+ (HD)
+https://lnplusstream.com/live/lnp.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/TyC_Sports_logo.svg",TyC Sports
+https://186.0.225.220/TyCSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TyCPlay.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/TyC_Sports_logo.svg",TyC Sports Play
+https://edge1.vedge.live/tycsports/tycsports.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/DeporTV_logo_2020.png",DeporTV (HD)
+https://5f1af61623b15.streamlock.net/live/smil:deportv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Fox_Sports_logo_2020.png",Fox Sports [GEO]
+https://foxsports.com/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="Gourmet.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/El_Gourmet_logo.png",El Gourmet
+https://gourmet-latam.mysrv.cloud/stream.m3u8
