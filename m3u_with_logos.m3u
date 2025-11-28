@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tn.ar" tvg-logo="https://example.com/logos/tn.png" group-title="Noticias",TN
+http://stream.com/tn.m3u8

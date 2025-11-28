@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar.xml"
+#EXTINF:-1 tvg-id="tn.ar",TN
+http://stream.com/tn.m3u8
